@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 export class FuncionarioService {
 
   // ==> Uri da api (Back-End)
-  uri = 'http://localhost:8000/api';
+  uri = 'http://localhost:7071/aping serve -o';
 
   constructor(private http: HttpClient) { }
 
